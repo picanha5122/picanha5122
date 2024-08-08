@@ -5,7 +5,7 @@ Meu nome é picanha
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
 - gosto de jogar xadrez
-- irmão do Espettodefrango5122 e do Espettodecarne5122
+- irmão do Espettodefrango5122, Espettodecarne5122 e da alcatra5122
 
 
   ### Entra em contato comigo :)
