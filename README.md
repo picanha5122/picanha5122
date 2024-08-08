@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá seja bem vindo ☼
+Meu nome é picanha
 
-<!--
-**picanha5122/picanha5122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no curso do [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
+- gosto de jogar xadrez
+- irmão do Espettodefrango5122 e do Espettodecarne5122
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entra em contato comigo :)
+
+  00001141728953sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/6pmyhn39_KsAAAAC/bye-bye-bleach.gif)
+  
